@@ -18,17 +18,33 @@
 <br/>
 
 <div align="center"> 
+
   <a href="mailto:vinicius.khalili@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+
   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
-</div>
-
 
 </div>
 
+</div>
+
+<br/>
+<br/>
+<h4>
+    ⚒️ Languages-Frameworks-Tools ⚒️
+</h4>
+
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=next,react,mui,tailwind,typescript,javascript,html,css,sass" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django,postgres,mongodb,redis" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,vercel,heroku,netlify,ubuntu,linux" />
+    
+</div>
