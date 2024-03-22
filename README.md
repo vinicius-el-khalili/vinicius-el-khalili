@@ -45,6 +45,6 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=next,react,mui,tailwind,typescript,javascript,html,css,sass" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django,postgres,mongodb,redis" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,vercel,heroku,netlify,ubuntu,linux" />
+    <img src="https://skillicons.dev/icons?i=docker,vercel,heroku,netlify,ubuntu,linux" /> 
     
 </div>
