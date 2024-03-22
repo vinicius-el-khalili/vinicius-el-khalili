@@ -34,17 +34,28 @@
 </div>
 
 </div>
-
 <br/>
+
 <br/>
 <h4>
-    ⚒️ Languages-Frameworks-Tools ⚒️
+    Languages/Frameworks/Tools
 </h4>
-
 <br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=next,react,mui,tailwind,typescript,javascript,html,css,sass" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django,postgres,mongodb,redis" /><br>
     <img src="https://skillicons.dev/icons?i=docker,vercel,heroku,netlify,ubuntu,linux" /> 
-    
 </div>
+
+<br/>
+
+
+<a href="#">
+  <img align="center" src="https://streak-stats.demolab.com/?user=vinicius-el-khalili" alt="My Streak stats" />
+</a>
+
+<br/>
+<br/>
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-el-khalili&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
