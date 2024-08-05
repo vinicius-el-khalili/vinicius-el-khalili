@@ -1,26 +1,43 @@
 
+<div align="center" style="font-family:courier">
 
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vinicius-el-khalili.vinicius-el-khalili" />
-
+### 👋 Hello there
+<br/>
 <div align="center">
-
-# Vinicius El Khalili
-**`Software Developer`**
+💻 I'm a full stack web developer living in the city of São Paulo, Brazil.
+<br/>
+🚀 I'm driven by bringing the power of technology to big and small businesses.
+<br/>
+🎓 I have a bachelor's degree in Biomolecular Physics by University of São Paulo (USP).
+</div>
 
 <br/>
 
+<h4>
+    🛠️ Tech Stack
+</h4>
+
 <div align="center">
+    <img style="height:32px" src="https://skillicons.dev/icons?i=next,react,vue,mui,tailwind,typescript,javascript,html,css,sass" /><br/>
+    <img style="height:32px" src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django,postgres,mongodb,redis" /><br>  
+    <img style="height:32px" src="https://skillicons.dev/icons?i=docker,vercel,heroku,netlify,ubuntu,linux" /> 
+</div>
 
-🔭 I’m currently working on an **app for administration of restaurants**
 
-🌱 I’m currently learning **Postgres & Database Management Systems**
+<h4>
+  📊 Stats
+</h4>
 
-💬 Ask me about **Node.js, Python, Next.js, React, Figma...**
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-el-khalili&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
 
-<div align="center"> 
+[![](https://streak-stats.demolab.com?user=vinicius-el-khalili&hide_border=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
+
+
+<div> 
+
+  <h4>📬 Contact</h4>
 
   <a href="mailto:velkhaliliborsato@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -36,29 +53,8 @@
 
 </div>
 
+<br/>
+
+<img  src="https://visitor-badge.laobi.icu/badge?page_id=vinicius-el-khalili.vinicius-el-khalili" />
+
 </div>
-<br/>
-
-<br/>
-<h4>
-    Languages/Frameworks/Tools
-</h4>
-<br/>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=next,react,mui,tailwind,typescript,javascript,html,css,sass" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django,postgres,mongodb,redis" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,vercel,heroku,netlify,ubuntu,linux" /> 
-</div>
-
-<br/>
-
-
-<a href="#">
-  <img align="center" src="https://streak-stats.demolab.com/?user=vinicius-el-khalili" alt="My Streak stats" />
-</a>
-
-<br/>
-<br/>
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-el-khalili&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
